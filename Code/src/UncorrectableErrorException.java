@@ -1,0 +1,3 @@
+class UncorrectableErrorException extends Exception {
+
+}
